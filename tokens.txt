@@ -1,0 +1,19 @@
+clientID  3a80ee971a8c44229cf0e7e117c9deb1
+client secret  291d5e7680584ea3a69d95b40fd4afe6
+
+
+playlist-modify-public playlist-modify-private playlist-read-private playlist-read-collaborative
+
+code  AQA_xTWBfBDWaNpKDjWGLhdVOpLc-H7BcX4U4VbCFJjNyWI4UBIUaZsJq2q2T1YOWluD5dppX6PbxLT4Yijt9XmgXp77SOle6Ie22xlarpfGr-zQs98o4U4ucl0fGHqm9vlW6ePO6r9KqkvrmDeTajwiTAOjocKjihIJAhT5UEaloWXEWMOdA4ZEow0G24bL9qwIh_yPCgiC22zQo6ZX0eR8-6G9Pa1zyR5PyYELQe9xqijxzsULNGyEjzAUBeQUTOgdeN_YUKG15XnAmYfsZfENtwp2ZAlSDXj2KVcjbg
+
+
+{
+    "access_token": "BQBE1ulUgaJMODjpKS04pO1Rw3ix39JwIxdhkM1ghN6Dl_QiolkofoiwX_dOO-DhfcuGKwVcU8ThdEqxvsJ_Z-GBAnA3vS_O5Jus88vC4fXNH3x9MIkDbyBUSJ7kQ7nbKq_xDhW-TBXHf0k37BW1gn8MtKyBCB-CZdt_19UAGWAU4--VGk6JvVncFK1h4h6vEYrcIFSkPbsVz-LVOt12lQ0GXe5HQEEiJ-wbA4_Dpg-M",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "refresh_token": "AQDE0N4MaFQs3ORus5KglzPjutZ8j9uEmJwQaJJQ5F2hmCaaI5oQ6h11rDZPCNxhB3xuXmop3M0i85isLUNZ2Jbmcq7iCs8zWZwhg0z1QeS8-GN7ADcFTUSZ3ikFl2Hskgc",
+    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
+}
+
+
+userID 1forp5n7125hz6f766bkn7rtl
